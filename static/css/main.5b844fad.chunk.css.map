@@ -1,0 +1,1 @@
+{"version":3,"sources":["cam.css"],"names":[],"mappings":"AAAA,0BACI,iBAAkB,CAClB,QAAS,CACT,QAAS,CACT,SACJ","file":"main.5b844fad.chunk.css","sourcesContent":[".react-html5-camera-photo {\n    position: absolute;\n    top: 42px;\n    left: 5px;\n    z-index: 1;\n}"]}
